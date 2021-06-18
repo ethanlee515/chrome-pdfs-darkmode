@@ -1,6 +1,6 @@
 {
 	"name": "Auto darkmode PDFs",
-	"description": "Automatically puts every pdf in dark mode!",
+	"description": "View pdfs in dark mode!",
 	"version": "1.0",
 	"manifest_version": 3,
 	"content_scripts": [{
