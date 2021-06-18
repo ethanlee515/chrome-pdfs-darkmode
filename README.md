@@ -1,6 +1,6 @@
-# Dark mode PDFs!
+# Dark Mode PDFs!
 
-Chrome extension that automatically views every pdf in dark mode.
+Chrome extension that automatically views every PDF in dark mode.
 
 ## How to install this?
 
