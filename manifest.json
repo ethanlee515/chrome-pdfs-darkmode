@@ -1,0 +1,10 @@
+{
+	"name": "Auto darkmode PDFs",
+	"description": "Automatically puts every pdf in dark mode!",
+	"version": "1.0",
+	"manifest_version": 3,
+	"content_scripts": [{
+		"matches": ["*://*/*.pdf"],
+		"js": ["main.js"]
+	}]
+}
