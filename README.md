@@ -12,4 +12,4 @@ Chrome extension that automatically views every pdf in dark mode.
 
 ## How to turn this off?
 
-To turn off the functionality, disable the extension at chrome://extensions. This change will take effect once you refresh your pdf page.
+To turn off the functionality, disable this at chrome://extensions. You'll need to refresh your open PDFs too.
