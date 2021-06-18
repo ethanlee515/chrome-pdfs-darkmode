@@ -1,4 +1,4 @@
-# chrome-pdfs-darkmode
+# Dark mode PDFs!
 
 Chrome extension that automatically views every pdf in dark mode.
 
